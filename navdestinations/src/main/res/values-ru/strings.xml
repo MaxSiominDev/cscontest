@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Bottom Nav Bar -->
+    <string name="home">Главная</string>
+    <string name="plans">Планы</string>
+    <string name="profile">Профиль</string>
+
+</resources>

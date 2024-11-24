@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="password">Пароль</string>
+    <string name="hide_password">Скрыть пароль</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="lock_icon">Иконка замка</string>
+
+    <string name="password_length_violated">Пароль должен содержать от %1$d до %2$d символов</string>
+    <string name="password_must_consist_of_letters_and_digits">Пароль должен содержать как минимум одну букву и одну цифру</string>
+
+    <string name="username_length_violated">Имя пользователя должно содержать от %1$d до %2$d символов</string>
+
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="forgot_password_dialog_text">Ваш пароль нельзя восстановить, если вы его забудете. Вы можете зарегистрировать еще один аккаунт. Однако все ваши данные будут потеряны.</string>
+    <string name="or">или</string>
+    <string name="create">Создать</string>
+    <string name="account">Аккаунт</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="back">Назад</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="log_in">Войти</string>
+
+    <string name="username_already_exists">Это имя пользователя уже занято</string>
+    <string name="avatar">Аватар</string>
+
+    <string name="log_out">Выйти</string>
+
+    <string name="hello_rokymiel" translatable="false">You are an honorable guest of my application! I love you!</string>
+    <string name="blank_password">Пароль не может быть пустым</string>
+    <string name="blank_username">Имя пользователя не может быть пустым</string>
+    <string name="thank_you">Спасибо</string>
+    <string name="for_joining_our_club">За присоединение к нашему клубу</string>
+    <string name="now_you_can_login_with_your_credentials">Теперь вы можете войти, используя свои учетные данные</string>
+    <string name="the_nearest_holiday">Ближайший праздник</string>
+    <string name="i_m_bored">Мне скучно!</string>
+    <string name="random_activity">Мы сгенерировали занятие для вас</string>
+    <string name="random_activity_text">%1$s\nУчастники: %2$s</string>
+    <string name="nearest_holiday">Мы нашли ближайший праздник для вас</string>
+    <string name="nearest_holiday_text">%1$s %2$s</string>
+    <string name="sunbed">Шезлонг</string>
+
+</resources>

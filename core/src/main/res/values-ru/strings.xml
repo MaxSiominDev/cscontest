@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location_permission_declined">Похоже, вы навсегда отказали в разрешении на определение местоположения. Вы можете предоставить его в настройках приложения.</string>
+    <string name="location_permission_rationale">Этому приложению необходим доступ к вашему местоположению для получения информации о погоде и местах</string>
+</resources>

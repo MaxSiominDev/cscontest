@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hide">Скрыть</string>
+    <string name="show">Показать</string>
+    <string name="no_places_nearby">Поблизости нет мест</string>
+    <string name="rating">Рейтинг: %1$s/10</string>
+    <string name="fullscreen_image">Полноэкранное изображение</string>
+    <string name="open_now">Открыто</string>
+    <string name="closed_now">Закрыто</string>
+    <string name="working_hours">Часы работы:</string>
+    <string name="refresh">Обновить</string>
+    <string name="description">Описание</string>
+    <string name="title">Заголовок</string>
+    <string name="plan_added">%1$s добавлено в планы.</string>
+    <string name="plan_updated">План успешно обновлен.</string>
+    <string name="no_plans_saved">Нет сохраненных планов</string>
+    <string name="plan_not_found" translatable="false">Plan is not found in database. Go back and try again</string>
+    <string name="save">Сохранить</string>
+    <string name="add_to_plans">Добавить в планы</string>
+
+    <string name="unknown_place">Неизвестное место</string>
+    <string name="temperature_unknown">Температура неизвестна</string>
+    <string name="unknown_conditions">Неизвестные погодные условия</string>
+    <string name="weather">Погода</string>
+    <string name="attraction_image">Изображение достопримечательности</string>
+    <string name="verified">Проверено</string>
+    <string name="weather_icon">Иконка погоды</string>
+    <string name="collapse">Свернуть</string>
+    <string name="expand">Развернуть</string>
+
+    <string name="missing_permission">Отсутствует разрешение на определение местоположения</string>
+    <string name="delete_plan">Удалить план</string>
+    <string name="plan_restored">План восстановлен</string>
+    <string name="plan_deleted">План удален</string>
+    <string name="undo">Отменить</string>
+
+</resources>

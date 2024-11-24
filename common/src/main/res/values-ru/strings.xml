@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="unknown_location_error">Неизвестная ошибка локации</string>
+    <string name="server_error">Упс, что-то пошло не так. Пожалуйста, попробуйте снова.</string>
+    <string name="select_date">Выберите дату</string>
+
+    <string name="gps_disabled">GPS недоступен</string>
+    <string name="missing_permission">Отсутствует разрешение на определение местоположения</string>
+
+    <string name="grant_permission">Предоставить разрешение</string>
+    <string name="permission_required">Требуется разрешение</string>
+    <string name="hide">Скрыть</string>
+
+</resources>

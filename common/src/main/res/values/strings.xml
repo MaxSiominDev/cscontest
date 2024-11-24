@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknown_error">Unknown error</string>
+    <string name="unknown_location_error">Unknown location error</string>
+    <string name="server_error">Oops, something went wrong. Please try again.</string>
+    <string name="select_date">Select date</string>
+
+    <string name="gps_disabled">GPS unavailable</string>
+    <string name="missing_permission">Missing location permission</string>
+
+    <string name="grant_permission">Grant permission</string>
+    <string name="permission_required">Permission required</string>
+    <string name="hide">Hide</string>
+
+</resources>

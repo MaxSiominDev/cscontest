@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="no_places_nearby">No places nearby</string>
+    <string name="rating">Rating: %1$s/10</string>
+    <string name="fullscreen_image">Fullscreen image</string>
+    <string name="open_now">Open now</string>
+    <string name="closed_now">Closed</string>
+    <string name="working_hours">Working hours:</string>
+    <string name="refresh">Refresh</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="plan_added">%1$s added to plans.</string>
+    <string name="plan_updated">Plan has been successfully updated.</string>
+    <string name="no_plans_saved">No plans saved</string>
+    <string name="plan_not_found" translatable="false">Plan is not found in database. Go back and try again</string>
+    <string name="save">Save</string>
+    <string name="add_to_plans">Add to plans</string>
+
+    <string name="unknown_place">Unknown place</string>
+    <string name="temperature_unknown">Temperature unknown</string>
+    <string name="unknown_conditions">Unknown weather conditions</string>
+    <string name="weather">Weather</string>
+    <string name="attraction_image">Attraction Image</string>
+    <string name="verified">Verified</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+
+    <string name="missing_permission">Missing location permission</string>
+    <string name="delete_plan">Delete plan</string>
+    <string name="plan_restored">Plan restored</string>
+    <string name="plan_deleted">Plan deleted</string>
+    <string name="undo">Undo</string>
+
+</resources>
